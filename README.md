@@ -4,7 +4,7 @@
 - 🔭 &nbsp;I’m currently working on [GitHub Trends](https://github.com/AttackOnMorty/github-trends)
 - ✍️ &nbsp;I blog here: [Luke's blog](https://attackonmorty.github.io/attack-on-morty/)
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
-- 📫 &nbsp;How to reach me: @AttackOnMorty
+- 📫 &nbsp;How to reach me: [@AttackOnMorty](https://github.com/AttackOnMorty)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AttackOnMorty&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
