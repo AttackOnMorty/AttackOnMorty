@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Luke
+### Hi there 👋, I'm Luke
 
 - 💬 &nbsp;Ask me about JavaScript, React, Browser, V8, Parser and Interpreter
 - 🔭 &nbsp;I’m currently working on [GitHub Trends](https://github.com/AttackOnMorty/github-trends)
