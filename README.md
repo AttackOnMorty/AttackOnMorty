@@ -6,7 +6,7 @@
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
 - 📫 &nbsp;How to reach me: [@AttackOnMorty](https://github.com/AttackOnMorty)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,remix,jest,nodejs,dotnet,docker,azure,aws,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,remix,gatsby,graphql,nodejs,cs,dotnet,docker,azure,aws&theme=light)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AttackOnMorty&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
