@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Luke
 
 - 💬 &nbsp;Ask me about JavaScript, React, Browser, V8, Parser and Interpreter
-- 🔭 &nbsp;I’m currently working on [GitHub Ranking](https://github.com/AttackOnMorty/github-ranking)
+- 🔭 &nbsp;I’m currently working on [GitHub Ranking](https://www.github-ranking.dev/)
 - ✍️ &nbsp;I blog here: [Luke's blog](https://attackonmorty.github.io/attack-on-morty/)
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
 - 📫 &nbsp;How to reach me: [@AttackOnMorty](https://github.com/AttackOnMorty)
