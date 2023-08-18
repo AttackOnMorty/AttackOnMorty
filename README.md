@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Luke
+<div align="center">
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/luke-mao/">Luke</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
+
 
 - 💬 &nbsp;Ask me about JavaScript, React, Vue, Parser, Interpreter, Browser and V8
 - 🔭 &nbsp;I’m currently working on [GitHub Trends](https://www.github-trends.com/)
