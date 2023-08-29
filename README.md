@@ -8,7 +8,7 @@
 - 🔭 &nbsp;I’m currently working on [GitHub Trends](https://www.github-trends.com/) & [GitHub Ranking](https://www.github-ranking.dev/)
 - ✍️ &nbsp;I blog here: [Luke's blog](https://www.attackonmorty.dev)
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
-- 📫 &nbsp;How to reach me: [@AttackOnMorty](https://github.com/AttackOnMorty)
+- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/luke-mao/)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,vue,remix,gatsby,graphql,nodejs,cs,dotnet,docker,azure,aws&theme=light)](https://skillicons.dev)
 
