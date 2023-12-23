@@ -10,7 +10,7 @@
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/luke-mao/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,vue,remix,gatsby,graphql,nodejs,cs,dotnet,docker,azure,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,remix,gatsby,vue,graphql,nodejs,cs,dotnet,docker,azure,aws&theme=light)](https://skillicons.dev)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AttackOnMorty&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttackOnMorty&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
