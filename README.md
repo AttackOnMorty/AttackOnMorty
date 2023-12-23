@@ -6,7 +6,7 @@
 
 - 💬 &nbsp;Ask me about JavaScript, React, Parser, Interpreter, Browser, V8, Agile methodology 
 - 🔭 &nbsp;I’m currently working on [GitHub Trends](https://www.github-trends.com/) & [GitHub Ranking](https://www.github-ranking.dev/)
-- ✍️ &nbsp;I blog here: [Luke's blog](https://www.attackonmorty.dev/)
+- ✍️ &nbsp;I blog here: [attackonmorty.dev](https://www.attackonmorty.dev/)
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/luke-mao/)
 
