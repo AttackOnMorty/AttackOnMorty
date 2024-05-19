@@ -16,7 +16,7 @@
 
 #### 🐙 GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AttackOnMorty&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttackOnMorty&layout=compact&theme=buefy&hide_border=true&hide_title=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AttackOnMorty&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttackOnMorty&layout=compact&theme=buefy&hide_border=true&hide_title=true" /></a> |
 | ------------- | ------------- |
 
 #### 📊 Weekly Development Breakdown
