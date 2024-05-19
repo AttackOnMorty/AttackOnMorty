@@ -34,4 +34,9 @@ Markdown         1 hr 4 mins     █▒░░░░░░░░░░░░░�
 
 #### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Essence of Programming](https://www.attackonmorty.com/blog/the-essence-of-programming)
+- [Modeling with LLM](https://www.attackonmorty.com/blog/modeling-with-llm)
+- [How to Read Faster?](https://www.attackonmorty.com/blog/how-to-read-faster)
+- [How to Build Your Knowledge System?](https://www.attackonmorty.com/blog/how-to-build-your-knowledge-system)
+- [Refactoring](https://www.attackonmorty.com/blog/refactoring)
 <!-- BLOG-POST-LIST:END -->
