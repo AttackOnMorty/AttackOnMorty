@@ -2,9 +2,9 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/luke-mao/">Luke</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-- 📣 &nbsp;I'm a developer, investor, runner and onewheeler.
+- 📣 &nbsp;I'm a developer, investor, and onewheeler.
 - 💬 &nbsp;Ask me about JavaScript, React, Parser, Interpreter, Browser, V8, Scrum, Agile methodology 
-- 🔭 &nbsp;I’m currently working on [GitHub Trends](https://www.github-trends.dev/) & [GitHub Ranking](https://www.github-ranking.dev/)
+- 🔭 &nbsp;I’m currently working on [Evenements](https://evenements-xi.vercel.app/)
 - ✍️ &nbsp;I blog here: [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
 - 🛹 Best thing I purchased: [Onewheel](https://onewheel.com/)
