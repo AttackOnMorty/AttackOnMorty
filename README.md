@@ -11,7 +11,7 @@
 
 #### 🎨 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,react,redux,remix,nextjs,gatsby,vue,graphql,tailwind,webpack,jest,express,nodejs,dotnet,docker,azure,bots,aws,github,vscode,rider&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,remix,nextjs,gatsby,vue,tailwind,webpack,jest,cypress,nodejs,express,dotnet,docker,azure,aws,jenkins,githubactions,git,github,vscode,rider,graphql,bots&theme=light)](https://skillicons.dev)
 
 #### 🐙 GitHub Stats
 
