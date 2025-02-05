@@ -4,10 +4,11 @@
 
 - 📣 &nbsp;I'm a developer, investor, and onewheeler.
 - 💬 &nbsp;Ask me about JavaScript, React, Parser, Interpreter, Browser, V8, Scrum, Agile methodology 
-- 🔭 &nbsp;I’m currently working on [Evenements](https://evenements-xi.vercel.app/)
+- 🔭 &nbsp;I’m currently working on [Crypto Ticker](https://github.com/AttackOnMorty/crypto-ticker)
 - ✍️ &nbsp;I blog here: [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 &nbsp;I work at [SSW](https://ssw.com.au)
 - 🛹 Best thing I purchased: [Onewheel](https://onewheel.com/)
+- 📺 Favorite TV show: [Rick and Morty](https://www.imdb.com/title/tt2861424)
 
 #### 🎨 My Skills
 
