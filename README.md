@@ -4,7 +4,7 @@
 
 - 📣 I'm a developer, investor and onewheeler.
 - 💬 Ask me about JavaScript, React, Parser, Interpreter, Browser, V8, Scrum, Agile methodology 
-- 🔭 I’m currently working on 🤷‍♂️
+- 🔭 I’m currently working on 🎁
 - ✍️ I blog here: [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
 - 🛹 Best thing I purchased: [Onewheel](https://onewheel.com/)
