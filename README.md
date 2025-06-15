@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bicep        6 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.88 %
-JSON         2 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-TypeScript   1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-PowerShell   1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Markdown     1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Bicep        6 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.00 %
+TypeScript   5 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.91 %
+JSON         2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Markdown     1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+PowerShell   1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
