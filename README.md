@@ -34,7 +34,7 @@ Other        1 hr 9 mins     █░░░░░░░░░░░░░░░░
 
 #### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [TDD is Back](https://attackonmorty.com/tdd-ping-pong-with-cursor/)
+- [TDD is Back](https://attackonmorty.com/tdd-is-back/)
 - [How to Read Source Code](https://attackonmorty.com/how-to-read-source-code/)
 - [Long Way to Programming](https://attackonmorty.com/long-way-to-programming/)
 - [The Essence of Programming](https://attackonmorty.com/the-essence-of-programming/)
