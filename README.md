@@ -12,7 +12,7 @@
 
 #### 🎨 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,remix,nextjs,gatsby,vue,tailwind,webpack,jest,cypress,nodejs,express,dotnet,docker,azure,aws,jenkins,githubactions,git,github,vscode,rider,graphql,bots&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
 
 #### 🐙 GitHub Stats
 
