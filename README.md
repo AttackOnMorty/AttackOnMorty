@@ -40,3 +40,10 @@ Text         48 mins         █░░░░░░░░░░░░░░░░
 - [The Essence of Programming](https://attackonmorty.com/the-essence-of-programming/)
 - [Modeling with LLM](https://attackonmorty.com/modeling-with-llm/)
 <!-- BLOG-POST-LIST:END -->
+
+#### 🧑‍💻 Commits
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AttackOnMorty/AttackOnMorty/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AttackOnMorty/AttackOnMorty/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/AttackOnMorty/AttackOnMorty/blob/output/github-contribution-grid-snake.svg">
+</picture>
