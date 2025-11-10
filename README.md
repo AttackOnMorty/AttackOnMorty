@@ -2,13 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luke+Mao!;" />
 </h1>
 
-- 📣 I'm a developer and onewheeler
-- 💬 Ask me about JavaScript, React, Parser, Interpreter, and Agile methodologies
-- 🔭 I’m currently working on 🤫
-- ✍️ I blog here: [attackonmorty.com](https://www.attackonmorty.com/)
+- 💻 Developer by day, Investor and Onewheeler by choice
+- 💬 I love chatting about Web Development & Agile
+- 🧠 TDD & Pair Programming Advocate
+- 🛠️ Building something top secret 🤫
+- ✍️ Writing thoughts on [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
-- 🛹 Best thing I purchased: [Onewheel](https://onewheel.com/)
-- 📺 Favourite TV show: [Rick and Morty](https://www.imdb.com/title/tt2861424)
+- 🛹 Can’t live without my [Onewheel](https://onewheel.com/)
+- 🎬 Forever a [Rick and Morty](https://www.imdb.com/title/tt2861424) fan
 
 #### 🎨 My Skills
 
