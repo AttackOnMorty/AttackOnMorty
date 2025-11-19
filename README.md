@@ -4,7 +4,7 @@
 
 - 💻 Developer by day, Investor and Onewheeler by choice
 - 💬 I love chatting about Web Development & Agile
-- 🧠 TDD & Pair Programming Advocate
+- 🧠 TDD & Pair Programming advocate
 - 🛠️ Building something top secret 🤫
 - ✍️ Writing thoughts on [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
