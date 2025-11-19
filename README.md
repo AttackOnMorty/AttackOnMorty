@@ -35,9 +35,9 @@ Markdown     24 mins         ▓░░░░░░░░░░░░░░░░
 
 #### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [TDD is Back](https://attackonmorty.com/tdd-is-back/)
 - [How to Read Source Code](https://attackonmorty.com/how-to-read-source-code/)
 - [Long Way to Programming](https://attackonmorty.com/long-way-to-programming/)
 - [The Essence of Programming](https://attackonmorty.com/the-essence-of-programming/)
-- [Modeling with LLM](https://attackonmorty.com/modeling-with-llm/)
+- [How to Read Faster?](https://attackonmorty.com/how-to-read-faster/)
+- [How to Build Your Knowledge System?](https://attackonmorty.com/how-to-build-your-knowledge-system/)
 <!-- BLOG-POST-LIST:END -->
