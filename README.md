@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/luke-mao/">Luke</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-> Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV.
+> _Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV._
 
 - 💻 Developer by day, Investor and Onewheeler by choice
 - 💬 Ask me about Web Development & AI & Agile
@@ -17,10 +17,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
 
+<!--
+
 #### 🐙 GitHub Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AttackOnMorty&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttackOnMorty&layout=compact&theme=buefy&hide_border=true&hide_title=true" /></a> |
 | ------------- | ------------- |
+
+-->
 
 #### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
