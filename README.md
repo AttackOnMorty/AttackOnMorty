@@ -2,14 +2,16 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/luke-mao/">Luke</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+> Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV.
+
 - 💻 Developer by day, Investor and Onewheeler by choice
-- 💬 I love chatting about Web Development & Agile
+- 💬 Ask me about Web Development & AI & Agile
 - 🧠 TDD & Pair Programming advocate
 - 🛠️ Building something top secret 🤫
-- ✍️ Writing thoughts on [attackonmorty.com](https://www.attackonmorty.com/)
+- ✍️ I blog at [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
-- 🛹 Can’t live without my [Onewheel](https://onewheel.com/)
-- 🎬 Forever a [Rick and Morty](https://www.imdb.com/title/tt2861424) fan
+- 🛹 Best purchase ever: [Onewheel](https://onewheel.com/)
+- 🎬 Favourite TV show: [Rick and Morty](https://www.imdb.com/title/tt2861424)
 
 #### 🎨 My Skills
 
