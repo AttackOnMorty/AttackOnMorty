@@ -7,7 +7,7 @@
 - 💻 Developer by day, Investor and Onewheeler by choice
 - 💬 Ask me about Web Development & AI & Agile
 - 🧠 TDD & Pair Programming advocate
-- 🛠️ Building something top secret 🤫
+- 🛠️ I'm currently working on [TD Sequential Indicator](https://td-sequential-indicator.vercel.app)
 - ✍️ I blog at [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
 - 🛹 Best purchase ever: [Onewheel](https://onewheel.com/)
