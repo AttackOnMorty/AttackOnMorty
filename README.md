@@ -8,6 +8,7 @@
 - 💬 Ask me about Web Development & AI & Agile
 - 🧠 TDD & Pair Programming advocate
 - 🛠️ I'm currently working on [TD Sequential Indicator](https://td-sequential-indicator.vercel.app)
+- 📖 I'm currently reading [The Economic Way Of Thinking](https://www.goodreads.com/book/show/1051837.The_Economic_Way_Of_Thinking)
 - ✍️ I blog at [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
 - 🛹 Best purchase ever: [Onewheel](https://onewheel.com/)
@@ -15,7 +16,7 @@
 
 #### 🎨 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?- 📖 I'm currently reading on [The Economic Way Of Thinking](https://www.goodreads.com/book/show/1051837.The_Economic_Way_Of_Thinking)i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
 
 <!--
 
