@@ -16,7 +16,7 @@
 
 #### 🎨 My Skills
 
-[![My Skills](https://skillicons.dev/icons?- 📖 I'm currently reading on [The Economic Way Of Thinking](https://www.goodreads.com/book/show/1051837.The_Economic_Way_Of_Thinking)i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
 
 <!--
 
