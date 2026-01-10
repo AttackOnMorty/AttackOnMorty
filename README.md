@@ -32,11 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         2 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-PowerShell   1 hr 43 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-TypeScript   1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Bicep        1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-Markdown     1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+YAML         3 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.61 %
+TypeScript   2 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+PowerShell   2 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Bicep        1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Markdown     1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
 ```
 
 <!--END_SECTION:waka-->
