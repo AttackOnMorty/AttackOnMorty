@@ -7,7 +7,7 @@
 - 💻 Developer by day, Investor and Onewheeler by choice
 - 💬 Ask me about Web & Agile & AI
 - 🧠 TDD & Pair Programming advocate
-- 🛠️ I'm currently working on [TD Sequential Indicator](https://td-sequential-indicator.vercel.app)
+- 🛠️ I'm currently working on 🎁
 - 📖 I'm currently reading [The Modern Mind: An Intellectual History of the 20th Century](https://www.goodreads.com/book/show/18770.The_Modern_Mind)
 - ✍️ I blog at [attackonmorty.com](https://www.attackonmorty.com/)
 - 👨‍💻 I work at [SSW](https://ssw.com.au)
