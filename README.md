@@ -14,7 +14,7 @@
 - 🛹 Best purchase ever: [Onewheel](https://onewheel.com/)
 - 🎬 Favourite TV show: [Rick and Morty](https://www.imdb.com/title/tt2861424)
 
-#### 🎨 My Skills
+#### 🎨 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
 
@@ -45,7 +45,7 @@ Python       24 mins               ▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### ✍️ Latest Blog Posts
+#### ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Read Source Code](https://attackonmorty.com/how-to-read-source-code/)
 - [Long Way to Programming](https://attackonmorty.com/long-way-to-programming/)
