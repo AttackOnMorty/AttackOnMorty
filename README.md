@@ -18,6 +18,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,remix,gatsby,vue,tailwind,nodejs,express,dotnet,graphql,webpack,jest,cypress,docker,azure,aws,githubactions,git,github,vscode,rider,ai,bots&theme=light)](https://skillicons.dev)
 
+#### 🤖 Token Usage
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/AttackOnMorty/svg?theme=light&template=graph&color=pink&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/AttackOnMorty)
+
 <!--
 
 #### 🐙 GitHub Stats
@@ -28,7 +32,7 @@
 -->
 
 
-#### 📊 Weekly Development Breakdown
+#### 📊 Weekly Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
