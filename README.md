@@ -20,7 +20,7 @@
 
 #### 🤖 Token Usage
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/AttackOnMorty/svg?theme=light&template=graph&color=pink&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/AttackOnMorty)
+<a href="https://tokscale.ai/u/AttackOnMorty"><img alt="Tokscale Stats for @AttackOnMorty" src="https://tokscale.ai/api/embed/AttackOnMorty/svg?theme=light&sort=cost&color=pink&graph=1&rank=percent&tokens=compact&cost=compact" /></a>
 
 <!--
 
