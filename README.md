@@ -5,14 +5,15 @@
 > _Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV._
 
 - 💻 Developer by day, Investor and Onewheeler by choice
-- 💬 Ask me about Web & Agile & AI
-- 🧠 TDD & Pair Programming advocate
-- 🛠️ I'm currently working on 🎁
-- 📖 I'm currently reading [Personal History: A Memoir](https://www.goodreads.com/en/book/show/95420.Personal_History)
+- 🏢 I work at [SSW](https://ssw.com.au)
+- 💬 Ask me about Web Development, Software Engineering, and AI
+- 🧠 TDD & Pair Programming enthusiast
+- 💰 Building something the market isn't ready for
 - ✍️ I blog at [attackonmorty.com](https://www.attackonmorty.com/)
-- 👨‍💻 I work at [SSW](https://ssw.com.au)
+- 📖 Favourite work-related book: [It Doesn’t Have to Be Crazy at Work](https://basecamp.com/books#calm)
 - 🛹 Best purchase ever: [Onewheel](https://onewheel.com/)
-- 🎬 Favourite TV show: [Rick and Morty](https://www.imdb.com/title/tt2861424)
+- 📺 Favourite TV show: [Rick and Morty](https://www.imdb.com/title/tt2861424)
+
 
 #### 🎨 Skills
 
