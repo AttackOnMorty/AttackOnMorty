@@ -37,11 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      25 mins               ████████████████████░░░░░   79.68 %
-YAML       2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-Text       1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Markdown   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Swift      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
